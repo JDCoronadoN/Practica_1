@@ -1,7 +1,15 @@
 # Proyecto de practica 1
-Funciones propuestas del catálogo:
-- listarProductos()
-- buscarPorCategoria()
-- sincronizarInventario()
-Registro de cambios: Desarrollador B – modificación para generar conflicto.
+feature/catalog
+
+// Estructura inicial para catálogo
+
+// Registro de cambios: Desarrollador B – modificación para generar conflicto
 console.log("Catálogo actualizado por Desarrollador B");
+
+// Funciones propuestas del catálogo:
+// - listarProductos()
+// - buscarPorCategoria()
+// - sincronizarInventario()
+
+// Nota: Estas funciones serán implementadas en la siguiente fase
+ main
