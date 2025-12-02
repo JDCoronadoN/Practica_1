@@ -1,4 +1,5 @@
 # Proyecto de practica 1
+feature/catalog
 
 // Estructura inicial para catálogo
 
@@ -11,5 +12,4 @@ console.log("Catálogo actualizado por Desarrollador B");
 // - sincronizarInventario()
 
 // Nota: Estas funciones serán implementadas en la siguiente fase
-// Cambio realizado por Desarrollador B
-
+ main
